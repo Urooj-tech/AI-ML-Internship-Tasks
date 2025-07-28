@@ -15,7 +15,7 @@ The goal of this project is to build a machine learning model that predicts whet
 
 ##  Dataset Used
 
-- **Source**: [Kaggle - Heart Disease UCI Dataset](https://www.kaggle.com/datasets/ronitf/heart-disease-uci)
+- **Source**: [[Kaggle - Heart Disease Dataset](https://www.kaggle.com/datasets/johnsmith88/heart-disease-dataset)
 - **File**: `heart.csv`
 - **Attributes** include:
   - Age, Sex, Chest Pain Type, Resting BP, Cholesterol, Fasting Blood Sugar, Resting ECG, Max Heart Rate, Exercise Induced Angina, ST Depression, etc.
